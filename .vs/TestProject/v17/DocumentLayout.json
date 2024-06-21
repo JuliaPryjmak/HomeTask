@@ -1,0 +1,320 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Yuliia_Pryimak\\source\\repos\\TestProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4745665-DEBE-4A5A-A821-A47982958E04}|ApiProject\\Task3.csproj|c:\\users\\yuliia_pryimak\\source\\repos\\testproject\\apiproject\\task3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F4745665-DEBE-4A5A-A821-A47982958E04}|ApiProject\\Task3.csproj|solutionrelative:apiproject\\task3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4745665-DEBE-4A5A-A821-A47982958E04}|ApiProject\\Task3.csproj|c:\\users\\yuliia_pryimak\\source\\repos\\testproject\\apiproject\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F4745665-DEBE-4A5A-A821-A47982958E04}|ApiProject\\Task3.csproj|solutionrelative:apiproject\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4745665-DEBE-4A5A-A821-A47982958E04}|ApiProject\\Task3.csproj|c:\\users\\yuliia_pryimak\\source\\repos\\testproject\\apiproject\\requests\\trackingrequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4745665-DEBE-4A5A-A821-A47982958E04}|ApiProject\\Task3.csproj|solutionrelative:apiproject\\requests\\trackingrequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4745665-DEBE-4A5A-A821-A47982958E04}|ApiProject\\Task3.csproj|c:\\users\\yuliia_pryimak\\source\\repos\\testproject\\apiproject\\initialization\\apitrackinginitialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4745665-DEBE-4A5A-A821-A47982958E04}|ApiProject\\Task3.csproj|solutionrelative:apiproject\\initialization\\apitrackinginitialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4745665-DEBE-4A5A-A821-A47982958E04}|ApiProject\\Task3.csproj|c:\\users\\yuliia_pryimak\\source\\repos\\testproject\\apiproject\\tests\\resetfailedlogintests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4745665-DEBE-4A5A-A821-A47982958E04}|ApiProject\\Task3.csproj|solutionrelative:apiproject\\tests\\resetfailedlogintests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4745665-DEBE-4A5A-A821-A47982958E04}|ApiProject\\Task3.csproj|c:\\users\\yuliia_pryimak\\source\\repos\\testproject\\apiproject\\tests\\failedlogintests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4745665-DEBE-4A5A-A821-A47982958E04}|ApiProject\\Task3.csproj|solutionrelative:apiproject\\tests\\failedlogintests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4745665-DEBE-4A5A-A821-A47982958E04}|ApiProject\\Task3.csproj|c:\\users\\yuliia_pryimak\\source\\repos\\testproject\\apiproject\\requests\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4745665-DEBE-4A5A-A821-A47982958E04}|ApiProject\\Task3.csproj|solutionrelative:apiproject\\requests\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4745665-DEBE-4A5A-A821-A47982958E04}|ApiProject\\Task3.csproj|c:\\users\\yuliia_pryimak\\source\\repos\\testproject\\apiproject\\requests\\requestbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4745665-DEBE-4A5A-A821-A47982958E04}|ApiProject\\Task3.csproj|solutionrelative:apiproject\\requests\\requestbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4745665-DEBE-4A5A-A821-A47982958E04}|ApiProject\\Task3.csproj|c:\\users\\yuliia_pryimak\\source\\repos\\testproject\\apiproject\\requests\\customrequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4745665-DEBE-4A5A-A821-A47982958E04}|ApiProject\\Task3.csproj|solutionrelative:apiproject\\requests\\customrequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4745665-DEBE-4A5A-A821-A47982958E04}|ApiProject\\Task3.csproj|c:\\users\\yuliia_pryimak\\source\\repos\\testproject\\apiproject\\models\\serialize\\resetloginfailtotal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4745665-DEBE-4A5A-A821-A47982958E04}|ApiProject\\Task3.csproj|solutionrelative:apiproject\\models\\serialize\\resetloginfailtotal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4745665-DEBE-4A5A-A821-A47982958E04}|ApiProject\\Task3.csproj|c:\\users\\yuliia_pryimak\\source\\repos\\testproject\\apiproject\\models\\deserialize\\loginfail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4745665-DEBE-4A5A-A821-A47982958E04}|ApiProject\\Task3.csproj|solutionrelative:apiproject\\models\\deserialize\\loginfail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4745665-DEBE-4A5A-A821-A47982958E04}|ApiProject\\Task3.csproj|c:\\users\\yuliia_pryimak\\source\\repos\\testproject\\apiproject\\initialization\\apiconfigurationinitialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4745665-DEBE-4A5A-A821-A47982958E04}|ApiProject\\Task3.csproj|solutionrelative:apiproject\\initialization\\apiconfigurationinitialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B631E937-B456-405C-AECF-EA5BD049AE43}|TestProject\\Task2.csproj|c:\\users\\yuliia_pryimak\\source\\repos\\testproject\\testproject\\settings\\trackingsitesettings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B631E937-B456-405C-AECF-EA5BD049AE43}|TestProject\\Task2.csproj|solutionrelative:testproject\\settings\\trackingsitesettings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B631E937-B456-405C-AECF-EA5BD049AE43}|TestProject\\Task2.csproj|C:\\Users\\Yuliia_Pryimak\\source\\repos\\TestProject\\testproject\\settings\\trackingsitesettings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{B631E937-B456-405C-AECF-EA5BD049AE43}|TestProject\\Task2.csproj|solutionrelative:testproject\\settings\\trackingsitesettings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B631E937-B456-405C-AECF-EA5BD049AE43}|TestProject\\Task2.csproj|c:\\users\\yuliia_pryimak\\source\\repos\\testproject\\testproject\\pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B631E937-B456-405C-AECF-EA5BD049AE43}|TestProject\\Task2.csproj|solutionrelative:testproject\\pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B631E937-B456-405C-AECF-EA5BD049AE43}|TestProject\\Task2.csproj|c:\\users\\yuliia_pryimak\\source\\repos\\testproject\\testproject\\pages\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B631E937-B456-405C-AECF-EA5BD049AE43}|TestProject\\Task2.csproj|solutionrelative:testproject\\pages\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4745665-DEBE-4A5A-A821-A47982958E04}|ApiProject\\Task3.csproj|C:\\Users\\Yuliia_Pryimak\\source\\repos\\TestProject\\apiproject\\settings\\trackingsitesettings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{F4745665-DEBE-4A5A-A821-A47982958E04}|ApiProject\\Task3.csproj|solutionrelative:apiproject\\settings\\trackingsitesettings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 320,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ResetFailedLoginTests.cs",
+              "DocumentMoniker": "C:\\Users\\Yuliia_Pryimak\\source\\repos\\TestProject\\ApiProject\\Tests\\ResetFailedLoginTests.cs",
+              "RelativeDocumentMoniker": "ApiProject\\Tests\\ResetFailedLoginTests.cs",
+              "ToolTip": "C:\\Users\\Yuliia_Pryimak\\source\\repos\\TestProject\\ApiProject\\Tests\\ResetFailedLoginTests.cs",
+              "RelativeToolTip": "ApiProject\\Tests\\ResetFailedLoginTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T16:28:00.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FailedLoginTests.cs",
+              "DocumentMoniker": "C:\\Users\\Yuliia_Pryimak\\source\\repos\\TestProject\\ApiProject\\Tests\\FailedLoginTests.cs",
+              "RelativeDocumentMoniker": "ApiProject\\Tests\\FailedLoginTests.cs",
+              "ToolTip": "C:\\Users\\Yuliia_Pryimak\\source\\repos\\TestProject\\ApiProject\\Tests\\FailedLoginTests.cs",
+              "RelativeToolTip": "ApiProject\\Tests\\FailedLoginTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T16:27:55.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TrackingRequests.cs",
+              "DocumentMoniker": "C:\\Users\\Yuliia_Pryimak\\source\\repos\\TestProject\\ApiProject\\Requests\\TrackingRequests.cs",
+              "RelativeDocumentMoniker": "ApiProject\\Requests\\TrackingRequests.cs",
+              "ToolTip": "C:\\Users\\Yuliia_Pryimak\\source\\repos\\TestProject\\ApiProject\\Requests\\TrackingRequests.cs",
+              "RelativeToolTip": "ApiProject\\Requests\\TrackingRequests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T16:27:50.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ResponseModel.cs",
+              "DocumentMoniker": "C:\\Users\\Yuliia_Pryimak\\source\\repos\\TestProject\\ApiProject\\Requests\\ResponseModel.cs",
+              "RelativeDocumentMoniker": "ApiProject\\Requests\\ResponseModel.cs",
+              "ToolTip": "C:\\Users\\Yuliia_Pryimak\\source\\repos\\TestProject\\ApiProject\\Requests\\ResponseModel.cs",
+              "RelativeToolTip": "ApiProject\\Requests\\ResponseModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T16:27:46.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApiTrackingInitialization.cs",
+              "DocumentMoniker": "C:\\Users\\Yuliia_Pryimak\\source\\repos\\TestProject\\ApiProject\\Initialization\\ApiTrackingInitialization.cs",
+              "RelativeDocumentMoniker": "ApiProject\\Initialization\\ApiTrackingInitialization.cs",
+              "ToolTip": "C:\\Users\\Yuliia_Pryimak\\source\\repos\\TestProject\\ApiProject\\Initialization\\ApiTrackingInitialization.cs",
+              "RelativeToolTip": "ApiProject\\Initialization\\ApiTrackingInitialization.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T16:08:58.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Yuliia_Pryimak\\source\\repos\\TestProject\\ApiProject\\App.config",
+              "RelativeDocumentMoniker": "ApiProject\\App.config",
+              "ToolTip": "C:\\Users\\Yuliia_Pryimak\\source\\repos\\TestProject\\ApiProject\\App.config",
+              "RelativeToolTip": "ApiProject\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-21T16:27:02.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Task3.csproj",
+              "DocumentMoniker": "C:\\Users\\Yuliia_Pryimak\\source\\repos\\TestProject\\ApiProject\\Task3.csproj",
+              "RelativeDocumentMoniker": "ApiProject\\Task3.csproj",
+              "ToolTip": "C:\\Users\\Yuliia_Pryimak\\source\\repos\\TestProject\\ApiProject\\Task3.csproj",
+              "RelativeToolTip": "ApiProject\\Task3.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-21T16:18:11.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RequestBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\Yuliia_Pryimak\\source\\repos\\TestProject\\ApiProject\\Requests\\RequestBuilder.cs",
+              "RelativeDocumentMoniker": "ApiProject\\Requests\\RequestBuilder.cs",
+              "ToolTip": "C:\\Users\\Yuliia_Pryimak\\source\\repos\\TestProject\\ApiProject\\Requests\\RequestBuilder.cs",
+              "RelativeToolTip": "ApiProject\\Requests\\RequestBuilder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T16:27:42.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomRequests.cs",
+              "DocumentMoniker": "C:\\Users\\Yuliia_Pryimak\\source\\repos\\TestProject\\ApiProject\\Requests\\CustomRequests.cs",
+              "RelativeDocumentMoniker": "ApiProject\\Requests\\CustomRequests.cs",
+              "ToolTip": "C:\\Users\\Yuliia_Pryimak\\source\\repos\\TestProject\\ApiProject\\Requests\\CustomRequests.cs",
+              "RelativeToolTip": "ApiProject\\Requests\\CustomRequests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T16:27:37.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ResetLoginFailTotal.cs",
+              "DocumentMoniker": "C:\\Users\\Yuliia_Pryimak\\source\\repos\\TestProject\\ApiProject\\Models\\Serialize\\ResetLoginFailTotal.cs",
+              "RelativeDocumentMoniker": "ApiProject\\Models\\Serialize\\ResetLoginFailTotal.cs",
+              "ToolTip": "C:\\Users\\Yuliia_Pryimak\\source\\repos\\TestProject\\ApiProject\\Models\\Serialize\\ResetLoginFailTotal.cs",
+              "RelativeToolTip": "ApiProject\\Models\\Serialize\\ResetLoginFailTotal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T16:17:07.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginFail.cs",
+              "DocumentMoniker": "C:\\Users\\Yuliia_Pryimak\\source\\repos\\TestProject\\ApiProject\\Models\\Deserialize\\LoginFail.cs",
+              "RelativeDocumentMoniker": "ApiProject\\Models\\Deserialize\\LoginFail.cs",
+              "ToolTip": "C:\\Users\\Yuliia_Pryimak\\source\\repos\\TestProject\\ApiProject\\Models\\Deserialize\\LoginFail.cs",
+              "RelativeToolTip": "ApiProject\\Models\\Deserialize\\LoginFail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T16:09:22.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApiConfigurationInitialization.cs",
+              "DocumentMoniker": "C:\\Users\\Yuliia_Pryimak\\source\\repos\\TestProject\\ApiProject\\Initialization\\ApiConfigurationInitialization.cs",
+              "RelativeDocumentMoniker": "ApiProject\\Initialization\\ApiConfigurationInitialization.cs",
+              "ToolTip": "C:\\Users\\Yuliia_Pryimak\\source\\repos\\TestProject\\ApiProject\\Initialization\\ApiConfigurationInitialization.cs",
+              "RelativeToolTip": "ApiProject\\Initialization\\ApiConfigurationInitialization.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T16:08:09.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TrackingSiteSettings.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Yuliia_Pryimak\\source\\repos\\TestProject\\TestProject\\Settings\\TrackingSiteSettings.Designer.cs",
+              "RelativeDocumentMoniker": "TestProject\\Settings\\TrackingSiteSettings.Designer.cs",
+              "ToolTip": "C:\\Users\\Yuliia_Pryimak\\source\\repos\\TestProject\\TestProject\\Settings\\TrackingSiteSettings.Designer.cs",
+              "RelativeToolTip": "TestProject\\Settings\\TrackingSiteSettings.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T16:19:34.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TrackingSiteSettings.settings",
+              "DocumentMoniker": "C:\\Users\\Yuliia_Pryimak\\source\\repos\\TestProject\\TestProject\\Settings\\TrackingSiteSettings.settings",
+              "RelativeDocumentMoniker": "TestProject\\Settings\\TrackingSiteSettings.settings",
+              "ToolTip": "C:\\Users\\Yuliia_Pryimak\\source\\repos\\TestProject\\TestProject\\Settings\\TrackingSiteSettings.settings",
+              "RelativeToolTip": "TestProject\\Settings\\TrackingSiteSettings.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2024-06-21T16:19:33.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "C:\\Users\\Yuliia_Pryimak\\source\\repos\\TestProject\\TestProject\\Pages\\LoginPage.cs",
+              "RelativeDocumentMoniker": "TestProject\\Pages\\LoginPage.cs",
+              "ToolTip": "C:\\Users\\Yuliia_Pryimak\\source\\repos\\TestProject\\TestProject\\Pages\\LoginPage.cs",
+              "RelativeToolTip": "TestProject\\Pages\\LoginPage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T16:19:30.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TrackingSiteSettings.settings",
+              "DocumentMoniker": "C:\\Users\\Yuliia_Pryimak\\source\\repos\\TestProject\\ApiProject\\Settings\\TrackingSiteSettings.settings",
+              "RelativeDocumentMoniker": "ApiProject\\Settings\\TrackingSiteSettings.settings",
+              "ToolTip": "C:\\Users\\Yuliia_Pryimak\\source\\repos\\TestProject\\ApiProject\\Settings\\TrackingSiteSettings.settings",
+              "RelativeToolTip": "ApiProject\\Settings\\TrackingSiteSettings.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2024-06-21T16:19:14.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BasePage.cs",
+              "DocumentMoniker": "C:\\Users\\Yuliia_Pryimak\\source\\repos\\TestProject\\TestProject\\Pages\\BasePage.cs",
+              "RelativeDocumentMoniker": "TestProject\\Pages\\BasePage.cs",
+              "ToolTip": "C:\\Users\\Yuliia_Pryimak\\source\\repos\\TestProject\\TestProject\\Pages\\BasePage.cs",
+              "RelativeToolTip": "TestProject\\Pages\\BasePage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T16:16:13.619Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 66,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
